@@ -1,0 +1,90 @@
+//------------------------------brand color list start
+
+//brand-color
+$brand-color: '';
+
+//dark shades brand color 
+$brand-color-darkest: darken($brand-color, 25%);
+$brand-color-darker: darken($brand-color, 15%);
+$brand-color-dark: darken($brand-color, 5%);
+
+//light shades brand color 
+$brand-color-light: lighten($brand-color, 5%);
+$brand-color-lighter: lighten($brand-color, 15%);
+$brand-color-lightest: lighten($brand-color, 25%);
+
+//------------------------------brand color list end
+
+//------------------------------accent color list start
+
+$accent-color: '';
+
+//dark shades brand color 
+$brand-color-darkest: darken($accent-color, 25%);
+$brand-color-darker: darken($accent-color, 15%);
+$brand-color-dark: darken($accent-color, 5%);
+
+//light shades brand color 
+$brand-color-light: lighten($accent-color, 5%);
+$brand-color-lighter: lighten($accent-color, 15%);
+$brand-color-lightest: lighten($accent-color, 25%);
+
+//------------------------------accent color list ends
+
+//------------------------------success color list starts
+
+//success color
+$success-color: #49d156;
+
+//dark shades success color
+$success-darkest: #24682a;
+$success-darker: #369c40;
+$success-dark: #41bb4d;
+
+//light shades success color
+$success-light: #5bd567;
+$success-lighter: #76dc80;
+$success-lightest: #a4e8aa;
+
+//------------------------------success color list end
+
+//------------------------------warning color list start
+
+//warning color
+$warning-color: #ED3237;
+
+//dark shades warning color
+$warning-darkest: darken($warning-color, 25%);
+$warning-darker: darken($warning-color, 15%);
+$warning-dark: darken($warning-color, 5%);
+
+//light shades warning color
+$warning-light: lighten($warning-color, 5%);
+$warning-lighter: lighten($warning-color, 15%);
+$warning-lightest: lighten($warning-color, 25%);
+
+//------------------------------warning color list end
+
+//------------------------------gray color list start
+
+//dark shades gray color
+$dark-color: #0f1011;
+$light-dark: #57595a;
+$battleship-grey: #74797e;
+$cool-grey: #8f9091;
+$grey-color: #a2a6a9;
+$light-grey: #f8f8f9;
+$black: #000000;
+
+//light shades gray color
+$silver-color: #d6d8db;
+$silver-color-2: #b8bbbe;
+$pale-grey: #f0f2f5;
+$white: #ffffff;
+
+$line-color: #DFDFE1;
+
+$accordion-content:  #666669;
+$about-content: $line-color;
+
+//------------------------------gray color list end
